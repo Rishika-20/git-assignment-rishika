@@ -18,10 +18,14 @@ public class Person {
     public void setAge(Integer age) {
         this.age = age;
     }
+
     public Person(String name, Integer age) {
         this.name = name;
         this.age = age;
     }
-
+    public Boolean isAdult(String name, Integer age) {
+        if(age >= 18) return true;
+          else return false;
+    }
 
 }
