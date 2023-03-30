@@ -1,5 +1,9 @@
-Kup_git_assignment/.idea/.gitignore
-Kup_git_assignment/.idea/misc.xml
-Kup_git_assignment/.idea/modules.xml
-Kup_git_assignment/Kup_git_assignment.iml
-Kup_git_assignment/out/production/Kup_git_assignment/Main.class
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+.gitignore
+
+
